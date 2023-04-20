@@ -1,0 +1,15 @@
+body {
+  background-color: #000000;
+}
+
+div {
+  margin-top: 10px;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: Cubano;
+}
+
+button {
+  width: 50%;
+  height: 400px;
+}
